@@ -1,0 +1,1 @@
+All Maker Crate files are licensed under a Creative Commons Attribution-Share Alike 3.0 United States License. The legal text of this license is included in the license.txt file.
