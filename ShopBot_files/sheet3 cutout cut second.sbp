@@ -16,19 +16,19 @@ SA                             	'Set program to absolute coordinate mode
 CN, 90
 'New Path
 'Toolpath Name = sheet3 cutout
-'Tool Name   = 1/4" Up-cut (52-910)
+'Tool Name   = 1/4" Straight  (48-005)
 
 &PWSafeZ = 0.236
 &PWZorigin = Material Surface
 &PWMaterial = 0.470
-'&ToolName = "1/4" Up-cut (52-910)"
+'&ToolName = "1/4" Straight  (48-005)"
 &Tool =1           'Tool number to change to
 C9                   'Change tool
 TR,11000               'Set spindle RPM
 C6                   'Spindle on
 PAUSE 2
 '
-MS,4.5,4.0
+MS,4.5,4.5
 JZ,0.787402
 J3,6.291518,2.444847,0.236220
 M3,6.291518,2.444847,0.000000

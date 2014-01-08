@@ -43,11 +43,11 @@ SA                             	'Set program to absolute coordinate mode
 CN, 90
 'New Path
 'Toolpath Name = single crate doves raw
-'Tool Name   = 1/4" Up-cut (52-910)
+'Tool Name   = 1/4" Straight  (48-005)
 &PWSafeZ = 0.236
 &PWZorigin = Material Surface
 &PWMaterial = 0.470
-'&ToolName = "1/4" Up-cut (52-910)"
+
 &Tool =1           'Tool number to change to
 C9                   'Change tool
 TR,11000               'Set spindle RPM

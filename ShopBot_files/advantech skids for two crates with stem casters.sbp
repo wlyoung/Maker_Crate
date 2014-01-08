@@ -21,7 +21,7 @@ CN, 90
 &PWSafeZ = 0.236
 &PWZorigin = Material Surface
 &PWMaterial = 0.720
-'&ToolName = "End Mill (0.25 inch)"
+'&ToolName = "1/4" Straight  (48-005)"
 &Tool =1           'Tool number to change to
 C9                   'Change tool
 TR,12000               'Set spindle RPM

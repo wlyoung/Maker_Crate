@@ -35,7 +35,7 @@ SO,1,1
 PAUSE 2
 '
 'Toolpath Name = Pocket 1
-'Tool Name   = End Mill (0.25 inch)
+'&ToolName = "1/4" Straight  (48-005)"
 JZ,0.787402
 J3,2.785794,3.039421,0.236220
 M3,2.785794,3.039421,-0.100000

@@ -22,9 +22,9 @@ CN, 90
 &PWZorigin = Material Surface
 &PWMaterial = 0.470
 '&ToolName = "1/4" Straight  (48-005)"
-&Tool =2           'Tool number to change to
+&Tool =1           'Tool number to change to
 C9                   'Change tool
-TR,12000               'Set spindle RPM
+TR,11000               'Set spindle RPM
 C6                   'Spindle on
 PAUSE 2
 '
